@@ -2,3 +2,8 @@
 /.idea/.gitignore
 /.idea/
 /data/
+/.codex/
+*.pdf
+*.zip
+results/*
+notebooks/Archive/*
